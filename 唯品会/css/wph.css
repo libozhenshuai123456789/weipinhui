@@ -1,0 +1,169 @@
+
+#div1{
+	
+	width: 100%;
+	align-items: center;
+	
+}
+#div1>img{
+	
+	width: 100%;
+}
+
+#div2{
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+#div2>img{
+	width: 20%;
+	
+}
+
+#div3{
+	width: 100%;
+	
+}
+
+#div3>img{
+	width: 100%;
+	
+}
+
+#div4{
+	align-items: center;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	
+}
+
+#div4>img{
+	width: 30%;
+}	
+
+#div5{
+	
+	width: 100%;
+	
+}
+
+#div51{
+	
+	width: 100%;
+	
+}
+
+#div51>img{
+	
+	width: 100%;
+	
+	
+}
+
+#div52{
+	width: 100%;
+	align-items: center;
+	display: flex;
+	position: absolute;
+	flex-wrap: wrap;
+	top: 600px;
+}
+
+#div52>div{
+	
+	width: 23%;
+	
+	
+	
+}
+
+#div52>div>img{
+	
+	width: 100%;
+	
+}
+#div52>div>p{
+	margin-left: 35px;
+	color: red;
+	
+}
+
+#div6{
+	
+	width: 100%;
+	align-items: center;
+	position: absolute;
+	top: 680px;
+	
+}
+
+#div6>div{
+	width: 17%;
+	float: left;
+	
+	
+}
+#div6>div>img{
+	
+	width: 100%;
+}
+#a4{
+	margin-left: 30px;
+}
+#a3{
+	margin-left: 25px;
+	}
+#a2{
+	margin-left: 15px;
+}
+#a1{
+	margin-left: 18px;
+}
+#div7{
+	
+	width: 100%;
+	
+}
+#div7>img{
+	width: 100%;
+}
+#div8{
+	
+	width: 100%;
+	align-items: center;
+	display: flex;
+	justify-content: space-around;
+	position: absolute;
+	top: 890px;
+	
+	
+}
+#div8>div{
+	align-items: center;
+	width: 28%;
+}
+
+#div8>div>img{
+	
+	width: 100%;
+}
+#div9{
+	align-items: center;
+	width:100% ;
+}
+#div9>img{
+	width: 100%;
+	
+}
+#div10{
+	width: 100%;
+}
+#div10>img{
+	
+	width: 100%;
+	
+}
+
